@@ -1,0 +1,32 @@
+.navbarbg {
+  background-color: #3b3b3b;
+  padding: 10px;
+  margin: 10px;
+}
+
+.nav_text h1 {
+  font-weight: 700;
+  font-size: 25px;
+  padding: 10px;
+  text-transform: uppercase;
+  color: var(--color-soft);
+  padding-left: 20px;
+}
+.nav_input {
+  display: flex;
+  align-items: center;
+}
+.nav_input input {
+  background-color: #171717;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  padding: 5px 10px;
+  position: relative;
+}
+
+.nav_Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

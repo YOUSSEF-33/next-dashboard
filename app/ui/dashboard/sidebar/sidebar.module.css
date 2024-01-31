@@ -1,0 +1,23 @@
+.container{
+    background-color: var(--soft-bg);
+    padding-top: 20px;
+    height: 100vh;
+    position:fixed;
+}
+
+.container::-webkit-scrollbar{
+    width: 0%;
+}
+.link{
+    transition: 0.2s;
+    margin-top: 2px;
+}
+.link:hover{
+   background: #5b5b5b;
+   border-radius: 15px;
+}
+
+.active{
+    background: #5b5b5b;
+    border-radius: 15px;
+ }

@@ -1,0 +1,37 @@
+.container{
+  display: flex;
+}
+
+.sidebar{
+  width: 16%;
+}
+
+.navbar{
+  width: 84%;
+}
+
+.bg{
+  background-color: var(--soft-bg);
+}
+
+.smallText{
+  font-size: 14px;
+}
+
+.dash{
+  display: flex;
+}
+
+.events{
+  width: 25%;
+}
+.maindash{
+  width:75%;
+  padding: 10px 10px;
+}
+
+.chart_bg{
+  background-color: var(--soft-bg);
+}
+
+.events{}
